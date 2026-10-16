@@ -13,7 +13,7 @@ PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-poli
 UBUNTU_CODENAME=resolute
 LOGO=ubuntu-logo
                total        used        free      shared  buff/cache   available
-Mem:           1.6Gi       654Mi       187Mi        18Mi       930Mi       940Mi
+Mem:           1.6Gi       655Mi       183Mi        18Mi       933Mi       939Mi
 Swap:          1.6Gi       4.0Ki       1.6Gi
 Filesystem                         Size  Used Avail Use% Mounted on
 /dev/mapper/ubuntu--vg-ubuntu--lv  9.8G  6.6G  2.8G  71% /
