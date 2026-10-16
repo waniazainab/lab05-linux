@@ -1,0 +1,15 @@
+total 56
+drwxr-x--- 9 waniazainab waniazainab 4096 Oct 16 06:59 .
+drwxr-xr-x 3 root        root        4096 Sep 14 19:46 ..
+-rw------- 1 waniazainab waniazainab  985 Oct 10 11:26 .bash_history
+-rw-r--r-- 1 waniazainab waniazainab  220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 waniazainab waniazainab 3771 Feb 13  2026 .bashrc
+drwx------ 2 waniazainab waniazainab 4096 Sep 14 20:03 .cache
+-rw-rw-r-- 1 waniazainab waniazainab  187 Oct 16 06:58 .gitconfig
+-rw-r--r-- 1 waniazainab waniazainab  807 Feb 13  2026 .profile
+drwx------ 2 waniazainab waniazainab 4096 Oct 16 06:55 .ssh
+drwxrwxr-x 3 waniazainab waniazainab 4096 Oct 10 15:39 Assignment01
+drwxrwxr-x 5 waniazainab waniazainab 4096 Oct 10 10:35 CC
+drwxrwxr-x 3 waniazainab waniazainab 4096 Oct 10 11:32 Gitea
+drwxrwxr-x 5 waniazainab waniazainab 4096 Oct 16 06:59 lab05-linux
+drwxrwxr-x 2 waniazainab waniazainab 4096 Sep 18 16:34 mylab
